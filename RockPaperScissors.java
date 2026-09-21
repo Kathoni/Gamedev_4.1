@@ -1,4 +1,4 @@
-package com.embu.basicgames;
+// package com.embu.basicgames;
 import java.util.Random;
 import java.util.Scanner;
 public class RockPaperScissors {
